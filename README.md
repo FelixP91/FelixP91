@@ -8,7 +8,7 @@
   * analyzing and interpreting metagenomic seqeuencing data.
   * evaluating data from enzyme kinetic measurements.
  
-- always open for collaborations
+- always open for collaborations.
 
 - Contacts:
   email: felix.panis@univie.ac.at
