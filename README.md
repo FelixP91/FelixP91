@@ -3,7 +3,7 @@
 - My reseacrh combines biochemical investigations of enzymes with computational and AI based methods. My work is focused on investigating enzyme kinetics, recombinant expresion and purification of proteins.
   
 - I am interested in developing computational models for:
-  * phylogenetic clafssification of protein seqeunces.
+  * phylogenetic classification of protein sequences.
   * identifying protein domains.
   * analyzing and interpreting metagenomic seqeuencing data.
   * evaluating data from enzyme kinetic measurements.
