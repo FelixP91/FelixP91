@@ -10,7 +10,7 @@
  
 - always open for collaborations.
 
-- Contacts:
+- Contact:
   email: felix.panis@univie.ac.at
 
 
