@@ -4,11 +4,11 @@
   
 - I am interested in developing computational models for:
   * phylogenetic classification of protein sequences.
-  * identifying protein domains.
-  * analyzing and interpreting metagenomic seqeuencing data.
-  * evaluating data from enzyme kinetic measurements.
+  * identification of protein domains.
+  * analysis and interpreting metagenomic seqeuencing data.
+  * evaluation of data from enzyme kinetic measurements.
  
-- always open for collaborations.
+- always open for collaborations :)
 
 - Contact:
   email: felix.panis@univie.ac.at
