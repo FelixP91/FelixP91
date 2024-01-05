@@ -1,6 +1,6 @@
 - I’m Dr. Felix Panis. After finishing my master studies in pharmacy I completed my PhD studies in chemistry. Currently, I am a postdoctoral researcher at the University of Vienna at the Department of Biophysical Chemistry.
   
-- My reseacrh combines biochemical investigations of enzymes with computational and AI based methods. My work is focused on investigating enzyme kinetics, recombinant expresion and purification of proteins.
+- My reseacrh combines biochemical investigations of recombinantly expressed enzymes with computational and AI based methods. My work is focused on investigating enzyme kinetics, recombinant expression and purification of proteins.
   
 - I am interested in developing computational models for:
   * phylogenetic classification of protein sequences.
