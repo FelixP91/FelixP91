@@ -5,7 +5,7 @@
 - I am interested in developing computational models for:
   * phylogenetic classification of protein sequences.
   * identification of protein domains.
-  * analysis and interpreting metagenomic seqeuencing data.
+  * analysis and interpretation of metagenomic seqeuencing data.
   * evaluation of data from enzyme kinetic measurements.
  
 - always open for collaborations :)
