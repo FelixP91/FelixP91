@@ -11,7 +11,7 @@
 - always open for collaborations :)
 
 - Contact:
-  email: felix.panis@univie.ac.at
+  email: felix.panis@univie.ac.at 
 
 
 <!---
